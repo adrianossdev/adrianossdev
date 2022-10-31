@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @adrianossdev
 - 👀 I’m interested in improve my system development skills 
-- 🌱 I’m currently learning PHP, JS, SQL, HTML5, CSS3 and BootStrap.
+- 🌱 I’m currently learning Laravel, NodeJS, MongoDB and React.
